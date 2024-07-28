@@ -78,7 +78,7 @@ The model includes a small platform and hole for a Treedix USB-C connector & boa
 
 This is how it should look all wired up:
 
-![usb-c soldering](https://github.com/user-attachments/assets/853847c8-6fb5-4ad3-ba3a-a044ed8be759)
+![treedix usb-c soldering](https://github.com/user-attachments/assets/fa8608c8-b87f-45ff-a185-809ae5b4d97d)
 
 After soldering, you can either screw, tape, or hot-glue the board to the platform.
 
