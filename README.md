@@ -66,6 +66,24 @@ Now, you should be able to thread the USB cable through the hole in the model, a
 
 If you don't care about a detachable USB cable, you can stop here, and simply screw the sidecar to your Glove80 and stop here.
 
+## Adding a Detachable USB-C Connector
+
+The model includes a small platform and hole for a Treedix USB-C connector & board. This can be used to make it easy to unplug the whole thing at the box, instead of at the computer.
+
+1. Cut the Ergo Touchpad USB cable about 4-5 inches (100-130mm) from the board
+2. Score and peel away an inch (~20mm) or so of the protective jacket to expose the USB wires inside
+3. On each individual wire, score and peel back each wire to expose about 2-3mm of copper
+4. Melt a very small amount of solder onto the exposed copper to get them nice and ready for soldering
+5. Melt a very small amount of solder onto the Treedix connector pads where we will be attaching the wires
+
+This is how it should look all wired up:
+
+![usb-c soldering](https://github.com/user-attachments/assets/853847c8-6fb5-4ad3-ba3a-a044ed8be759)
+
+After soldering, you can either screw, tape, or hot-glue the board to the platform.
+
+Then, tuck the wires inside and screw on the back (if you printed that model), with 2.5mm screws (same as the sidecar mounts).
+
 ## TODO
 
 - Experiment with the shape of the outer edge
