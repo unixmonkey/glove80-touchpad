@@ -78,9 +78,7 @@ The model includes a small platform and hole for a Treedix USB-C connector & boa
 
 This is how it should look all wired up:
 
-![treedix usb-c soldering](https://github.com/user-attachments/assets/fa8608c8-b87f-45ff-a185-809ae5b4d97d)
-
-After soldering, you can either screw, tape, or hot-glue the board to the platform.
+Insert picture here.
 
 Then, tuck the wires inside and screw on the back (if you printed that model), with 2.5mm screws (same as the sidecar mounts).
 
