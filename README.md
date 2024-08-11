@@ -78,9 +78,21 @@ The model includes a small platform and hole for a Treedix USB-C connector & boa
 
 This is how it should look all wired up:
 
-Insert picture here.
+![touchpad soldering](https://github.com/user-attachments/assets/a67450a6-9fec-42f3-bcbb-340d8ab4f2c2)
 
-Then, tuck the wires inside and screw on the back (if you printed that model), with 2.5mm screws (same as the sidecar mounts).
+Here it is in the enclosure, with the USB-C board screwed down (this was a version with a circle for a cutout, which didn't have room for the connector, so I had to cut it some. The updated models account for this):
+
+![back-view](https://github.com/user-attachments/assets/a9f4affd-ef56-4a69-a3f1-acc492fe1593)
+
+Then, tuck the wires inside and screw on the back (if you printed that model), with 2.5mm screws (same as the sidecar mounts). This back model could use wider holes to recess those screws.
+
+![back-on](https://github.com/user-attachments/assets/fa1d4154-4ca3-4099-9dc6-7e14ebea7472)
+
+## Final product
+
+This is a video of me using both the Touchpad and Trackpoint sidecars, so you can see how the gestures, & wrist positions, & movements look:
+
+[![Using the Touchpad & Trackpoint](https://github.com/user-attachments/assets/ce264064-d61d-4a5a-8dc8-74e7d7a7da82)](https://youtu.be/VEFaY-3PMP4)
 
 ## TODO
 
