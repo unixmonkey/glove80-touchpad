@@ -92,7 +92,7 @@ Then, tuck the wires inside and screw on the back (if you printed that model), w
 
 This is a video of me using both the Touchpad and Trackpoint sidecars, so you can see how the gestures, & wrist positions, & movements look:
 
-[![Using the Touchpad & Trackpoint](https://github.com/user-attachments/assets/ce264064-d61d-4a5a-8dc8-74e7d7a7da82)](https://youtu.be/VEFaY-3PMP4)
+[![Using the Touchpad & Trackpoint](https://github.com/user-attachments/assets/f33d5ac7-460e-435d-a8ad-7a7cafb262f3)](https://youtu.be/VEFaY-3PMP4)
 
 ## TODO
 
