@@ -16,7 +16,7 @@ So I bought the Glove80, and a 3d printer, and got to work. This is helping me, 
 
 1. The [MoErgo Glove80 keyboard](https://www.moergo.com/collections/glove80-keyboards)
 2. A 3D printer (or a friend/library/makerspace/business with one)
-3. [ERGO Touchpad](https://ergonomictouchpad.com/ergonomic_touchpad.php) ([Amazon](https://www.amazon.com/gp/product/B087Z7RGGK/)).
+3. [ERGO Touchpad](https://ergonomictouchpad.com/ergonomic_touchpad.php)
 4. 2.5mm screws (for the Glove80 mounting holes). I'm using 8mm deep ones I got in [this kit](https://www.amazon.com/dp/B0BLCFD9HR)
 5. These [3d model files](/models/)
 
